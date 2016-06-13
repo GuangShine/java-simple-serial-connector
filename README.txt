@@ -176,5 +176,5 @@ Not implemented yet list:
 Not implemented yet list:
 * getPortNames()
 * Parity: MARK and SPACE
-* purgePort()
-* Events: BREAK, ERR and RXFLAG
+* purgePorts()
+* Events: BREAK, ERR and RXFLAG 
